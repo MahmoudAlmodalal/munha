@@ -1,13 +1,22 @@
 import {spawn} from 'node:child_process';
-import {mkdirSync,writeFileSync} from 'node:fs';
+import {existsSync,mkdirSync,writeFileSync} from 'node:fs';
 import assert from 'node:assert/strict';
 import {setTimeout as delay} from 'node:timers/promises';
 
-const chrome=spawn('/usr/bin/google-chrome',['--headless','--no-sandbox','--disable-gpu','--disable-dev-shm-usage','--remote-debugging-port=9237','--user-data-dir=/tmp/alfaraa-browser-check','--no-first-run','--no-default-browser-check','about:blank'],{stdio:'ignore'});
+const chromePath=process.env.CHROME_PATH || ['/usr/bin/google-chrome','/usr/bin/chromium'].find(path=>existsSync(path));
+assert.ok(chromePath,'Chrome or Chromium is installed (or set CHROME_PATH)');
+const chrome=spawn(chromePath,['--headless','--no-sandbox','--disable-gpu','--disable-dev-shm-usage','--remote-debugging-port=9237','--user-data-dir=/tmp/alfaraa-browser-check','--no-first-run','--no-default-browser-check','about:blank'],{stdio:'ignore'});
 let socket;
 let nextId=1;
 const pending=new Map();
 const errors=[];
+const retainedSource=JSON.parse((await import('node:fs')).readFileSync(new URL('../dist/source.json',import.meta.url),'utf8'));
+async function checkSourceParagraphs(item,label) {
+  const paragraphs=[...new Set(item.lines.filter(line=>line.length>=60))];
+  const normalizeContent=value=>value.replace(/\s|\p{Cf}/gu,'');
+  const missing=await evaluate(`(()=>{const normalize=${normalizeContent.toString()};const text=normalize(document.querySelector('main').textContent);return ${JSON.stringify(paragraphs)}.filter(line=>!text.includes(normalize(line)));})()`);
+  check(missing.length===0,label+' retains every source paragraph: '+missing.join(' | '));
+}
 let pausedContent;
 async function command(method,params={}){
   const id=nextId++;
@@ -33,6 +42,9 @@ try{
   mkdirSync('artifacts',{recursive:true});
   check(await evaluate("document.documentElement.dir === 'rtl'"),'Arabic RTL');
   check(await evaluate("document.querySelectorAll('.service-card').length === 3"),'Homepage services');
+  await checkSourceParagraphs(retainedSource.pages.find(item=>item.slug==='الرئيسيه'),'Homepage');
+  check(await evaluate("document.querySelectorAll('#testimonials figure').length===4 && document.querySelectorAll('#equipment-gallery img').length===6 && document.querySelectorAll('.brand-logos img').length===8"),'All original testimonials, equipment photos and brand logos are displayed');
+  check(await evaluate("document.querySelectorAll('.service-ribbon a').length===7"),'All seven original service highlights are displayed');
   await screenshot('artifacts/home-desktop.png');
   await evaluate("document.querySelectorAll('main img').forEach(image=>image.loading='eager')");
   await until("[...document.querySelectorAll('main img')].every(image=>image.complete && image.naturalWidth>0)");
@@ -44,8 +56,10 @@ try{
   for(const [width,height] of [[320,720],[375,844],[768,1024],[1024,768],[1280,800],[1366,768],[1440,900],[1920,1080]]){
     await command('Emulation.setDeviceMetricsOverride',{width,height,deviceScaleFactor:1,mobile:width<=375});await delay(120);
     check(await evaluate('document.documentElement.scrollWidth <= innerWidth+1'),`Homepage has no horizontal overflow at ${width}px`);
+    check(await evaluate("document.querySelector('.trust-row').getBoundingClientRect().top >= document.querySelector('.service-ribbon').getBoundingClientRect().bottom-1"),`Service ribbon remains unobscured at ${width}px`);
+    check(await evaluate("[...document.querySelectorAll('.hero-product,.service-ribbon a,.trust-item')].every(element=>{const r=element.getBoundingClientRect();return r.left>=-1&&r.right<=innerWidth+1})"),`Hero panel, service links and statistics stay inside ${width}px viewport`);
     if(width>=1280){
-      check(await evaluate("[...document.querySelectorAll('.hero h1,.hero-copy,.hero-actions,.main-nav,.header-quote')].every(element=>{const r=element.getBoundingClientRect();return r.left>=0&&r.right<=innerWidth&&r.top>=0&&r.bottom<=innerHeight})"),`Hero content and desktop navigation fit ${width}×${height}`);
+      check(await evaluate("[...document.querySelectorAll('.hero h1,.hero-copy,.hero-product,.hero-actions,.hero-bottom,.main-nav,.header-quote')].every(element=>{const r=element.getBoundingClientRect();return r.left>=0&&r.right<=innerWidth&&r.top>=0&&r.bottom<=innerHeight})"),`Hero content and desktop navigation fit ${width}×${height}`);
       check(await evaluate("document.querySelector('.hero-actions').getBoundingClientRect().bottom < document.querySelector('.hero-bottom').getBoundingClientRect().top"),`Hero actions do not overlap the section link at ${width}px`);
       await screenshot(`artifacts/home-${width}x${height}.png`);
     }
@@ -55,6 +69,12 @@ try{
     await route(path);check(await evaluate("document.querySelector('h1') !== null && !document.body.textContent.includes('الصفحة غير موجودة')"),`Page ${path}`);
     check(await evaluate('document.documentElement.scrollWidth <= innerWidth+1'),`${path} has no horizontal overflow`);
   }
+  for(const [slug,path] of [['about','about'],['نشاطاتنا','activities'],['banks','banks']]){await route(path);await checkSourceParagraphs(retainedSource.pages.find(item=>item.slug===slug),path);}
+  await route('branches');check(await evaluate("document.querySelectorAll('.source-map iframe').length===6 && document.querySelector('a[href*=\"7R6M\"]')!==null && document.querySelector('a[href=\"tel:0552141467\"]')!==null"),'All six maps, Ranyah directions and the published Isuzu number are retained');
+  await route('careers');check(await evaluate("document.querySelector('iframe').src==='https://www.alfaraaonline.mg-so.com/forms/?p=17'"),'Original careers form is available');
+  await route('contact');check(await evaluate("document.querySelector('.source-embed iframe').src==='https://www.alfaraaonline.mg-so.com/forms/?p=3'"),'Original contact form is available');
+  await route('fastlinks');check(await evaluate("document.querySelector('a[href*=\"linkedin.com/company/al-faraa\"]')!==null"),'LinkedIn company channel is retained');
+  for(const post of retainedSource.posts){await route('news/'+post.id);await checkSourceParagraphs(post,'Article '+post.id);check(await evaluate(`document.querySelectorAll('.article-copy img').length===${post.images.length}`),'All images retained for article '+post.id);}
   await route('news');check(await evaluate("document.querySelectorAll('.news-card').length===15"),'All 15 news articles');
   const articleHash=await evaluate("document.querySelector('.news-card h3 a').hash");await evaluate(`location.hash=${JSON.stringify(articleHash)}`);await delay(150);check(await evaluate("document.querySelector('.article-copy')!==null"),'News article navigation');
   await route('branches');await evaluate("document.querySelector('[data-city=الدمام].branch-filter').click()");check(await evaluate("document.querySelectorAll('.branch-card').length===1"),'Branch city filter');
@@ -105,6 +125,7 @@ try{
     for(const path of routes){await route(path);assert.ok(await evaluate('document.documentElement.scrollWidth <= innerWidth+1'),`${path} overflows at ${width}px`);}
     check(true,`All screens and an article fit at ${width}px`);
   }
+  await route('about');await evaluate("location.hash='#logistics'");await delay(400);check(await evaluate("document.querySelector('#logistics')!==null && document.querySelector('#logistics').getBoundingClientRect().top>=75"),'Logistics section anchor resolves from other pages');
   await route('activities');check(await evaluate("getComputedStyle(document.querySelector('.page-hero .container')).animationName==='enter'"),'Page entrance motion is enabled');
   await command('Emulation.setEmulatedMedia',{features:[{name:'prefers-reduced-motion',value:'reduce'}]});
   await route('branches');await evaluate("document.querySelector('[data-city=الدمام].branch-filter').click()");

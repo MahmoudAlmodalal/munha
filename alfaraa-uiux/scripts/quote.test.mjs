@@ -27,3 +27,17 @@ test('All public corporate pages, news posts and cached images are present',()=>
   for(const slug of expected)assert.ok(source.pages.some(page=>page.slug===slug),slug);
   for(const image of [...source.brands,...source.posts.map(post=>post.thumbnail).filter(Boolean)]) assert.ok(existsSync(new URL('../dist/'+image,import.meta.url)),image);
 });
+
+
+test('Every captured image is locally cached, including full article galleries',()=>{
+  const source=JSON.parse(readFileSync(new URL('../dist/source.json',import.meta.url)));
+  for(const item of [...source.pages,...source.posts]){
+    for(const image of item.images){
+      assert.ok(image.local?.startsWith('assets/'),image.url);
+      assert.ok(existsSync(new URL('../dist/'+image.local,import.meta.url)),image.local);
+    }
+  }
+  assert.equal(source.brands.length,8);
+  assert.equal(source.pages.find(page=>page.slug==='branches').frames.length,6);
+  assert.deepEqual(source.pages.find(page=>page.slug==='الرئيسيه').counters,[7,24,4]);
+});

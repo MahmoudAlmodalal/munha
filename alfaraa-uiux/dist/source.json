@@ -1,12 +1,13 @@
 {
   "source": "https://alfaraaonline.com.sa",
+  "capturedAt": "2026-10-14T16:46:37.853333+00:00",
   "pages": [
     {
       "id": 7258,
       "slug": "refund_returns",
       "url": "https://alfaraaonline.com.sa/refund_returns/",
       "title": "سياسة الاستبدال و الاسترجاع",
-      "date": "",
+      "date": "2026-09-20T11:22:22",
       "lines": [
         "AL-FARAA INTERNATIONAL",
         "سياسة الاستبدال والاسترجاع",
@@ -20,14 +21,15 @@
         }
       ],
       "links": [],
-      "frames": []
+      "frames": [],
+      "counters": []
     },
     {
       "id": 7217,
       "slug": "نشاطاتنا",
       "url": "https://alfaraaonline.com.sa/%d9%86%d8%b4%d8%a7%d8%b7%d8%a7%d8%aa%d9%86%d8%a7/",
       "title": "نشاطاتنا",
-      "date": "",
+      "date": "2025-07-02T15:33:50",
       "lines": [
         "شبكة تجارية متكاملة",
         "أنشطتنا",
@@ -94,66 +96,92 @@
       "images": [
         {
           "url": "https://flagcdn.com/w320/sa.png",
-          "alt": "علم السعودية"
+          "alt": "علم السعودية",
+          "local": "assets/source-61cece5fa579d272.png"
         },
         {
           "url": "https://flagcdn.com/w320/eg.png",
-          "alt": "علم مصر"
+          "alt": "علم مصر",
+          "local": "assets/source-758da9243836be9b.png"
         },
         {
           "url": "https://flagcdn.com/w320/cn.png",
-          "alt": "علم الصين"
+          "alt": "علم الصين",
+          "local": "assets/source-965b3172354c62d4.png"
         },
         {
           "url": "https://flagcdn.com/w320/ae.png",
-          "alt": "علم الإمارات"
+          "alt": "علم الإمارات",
+          "local": "assets/source-6706ed6d6097c165.png"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/07/imgi_17_1695383251-removebg-preview.png",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-8cdb1d029c378ef3.png"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/07/imgi_22_1695383259-__1_-removebg-preview.png",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-b652b05aaeb43339.png"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/07/imgi_20_1644311020-removebg-preview.png",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-3de2f85e6a10fbf8.png"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/07/imgi_19_1695381239-removebg-preview.png",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-93f6786554395390.png"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/07/7f1d58f3-ee09-4cad-8ec1-694e58d41a77-removebg-preview.png",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-ae868b301f548f2b.png"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/07/8cbfa841-ec45-4bb9-acc3-956b0d2b2220-removebg-preview.png",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-03def962689727c0.png"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/07/f6b71d65-4deb-4687-b5bc-2bf09ba5350d-removebg-preview.png",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-b4d61700e657001a.png"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/07/f1741866-9950-42df-9528-c1db427f2fab-removebg-preview.png",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-568ba2e6a1924ad4.png"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/07/الفارع_22-removebg-preview.png",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-e5e106dc367b60c1.png"
+        },
+        {
+          "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/Global-Logistics_-Air-Road-and-Sea.png",
+          "alt": "",
+          "background": true,
+          "local": "assets/source-f8a9cb307169aa29.png"
+        },
+        {
+          "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/07/imgi_11_global-map-removebg-preview.png",
+          "alt": "",
+          "background": true,
+          "local": "assets/source-7c4dfcb24c9128a1.png"
         }
       ],
       "links": [],
-      "frames": []
+      "frames": [],
+      "counters": []
     },
     {
       "id": 7038,
       "slug": "الرئيسيه",
       "url": "https://alfaraaonline.com.sa/",
       "title": "الرئيسيه",
-      "date": "",
+      "date": "2025-06-30T13:34:58",
       "lines": [
         "AL FARAA COMMERCIAL",
         "منتجات تشغيلية متنوعة",
@@ -273,83 +301,127 @@
       "images": [
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/ChatGPT-Image-Oct-13-2026-12_00_27-PM.png",
-          "alt": "شركة الفارع الدولية التجارية"
+          "alt": "شركة الفارع الدولية التجارية",
+          "local": "assets/source-8a865fdbb888b18b.png"
         },
         {
           "url": "https://flagcdn.com/w320/sa.png",
-          "alt": "علم المملكة العربية السعودية"
+          "alt": "علم المملكة العربية السعودية",
+          "local": "assets/source-61cece5fa579d272.png"
         },
         {
           "url": "https://flagcdn.com/w320/eg.png",
-          "alt": "علم مصر"
+          "alt": "علم مصر",
+          "local": "assets/source-758da9243836be9b.png"
         },
         {
           "url": "https://flagcdn.com/w320/cn.png",
-          "alt": "علم الصين"
+          "alt": "علم الصين",
+          "local": "assets/source-965b3172354c62d4.png"
         },
         {
           "url": "https://flagcdn.com/w320/ae.png",
-          "alt": "علم الإمارات"
+          "alt": "علم الإمارات",
+          "local": "assets/source-6706ed6d6097c165.png"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/07/b66175d7-3e79-4bd8-891e-a96307adca13.jpeg",
-          "alt": "1"
+          "alt": "1",
+          "local": "assets/source-8cd0a14dd107021e.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/07/2c346cbd-5306-4938-9e60-46d920e83246.jpeg",
-          "alt": "2"
+          "alt": "2",
+          "local": "assets/source-e418bc2d9460a54d.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/07/f61a28cd-c594-47c6-a607-1936bb4972c1.jpeg",
-          "alt": "3"
+          "alt": "3",
+          "local": "assets/source-746760b7b8b01f04.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/07/9a7d3724-0b8d-454a-9a70-69a5026464a5.jpeg",
-          "alt": "4"
+          "alt": "4",
+          "local": "assets/source-3f654a1cdc363be0.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/07/f4546500-29dd-46f2-8a14-54a7f684b3ad.jpeg",
-          "alt": "5"
+          "alt": "5",
+          "local": "assets/source-ace0ce287cb01fcf.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/07/05eb74a5-ab8a-4558-9cad-61c5a0aed17e.jpeg",
-          "alt": "6"
+          "alt": "6",
+          "local": "assets/source-954d2d43134fd28f.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/07/imgi_17_1695383251-removebg-preview.png",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-8cdb1d029c378ef3.png"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/07/imgi_22_1695383259-__1_-removebg-preview.png",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-b652b05aaeb43339.png"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/07/imgi_20_1644311020-removebg-preview.png",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-3de2f85e6a10fbf8.png"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/07/imgi_19_1695381239-removebg-preview.png",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-93f6786554395390.png"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/07/7f1d58f3-ee09-4cad-8ec1-694e58d41a77-removebg-preview.png",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-ae868b301f548f2b.png"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/07/8cbfa841-ec45-4bb9-acc3-956b0d2b2220-removebg-preview.png",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-03def962689727c0.png"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/07/f6b71d65-4deb-4687-b5bc-2bf09ba5350d-removebg-preview.png",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-b4d61700e657001a.png"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/07/f1741866-9950-42df-9528-c1db427f2fab-removebg-preview.png",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-568ba2e6a1924ad4.png"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/07/الفارع_22-removebg-preview.png",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-e5e106dc367b60c1.png"
+        },
+        {
+          "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/PHOTO-2025-06-30-13-17-22.jpg",
+          "alt": "",
+          "background": true,
+          "local": "assets/source-0bb18b140556dd22.jpg"
+        },
+        {
+          "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/PHOTO-2025-06-30-13-17-23.jpg",
+          "alt": "",
+          "background": true,
+          "local": "assets/source-c72f5e6291660eb4.jpg"
+        },
+        {
+          "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/07/imgi_69_slider-trans.jpg",
+          "alt": "",
+          "background": true,
+          "local": "assets/source-c770bd2b5de40a3f.jpg"
+        },
+        {
+          "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/White-Semi-Truck-at-a-Modern-Warehouse-Dock.png",
+          "alt": "",
+          "background": true,
+          "local": "assets/source-da42890c43f12914.png"
         }
       ],
       "links": [
@@ -357,14 +429,19 @@
         "https://wa.me/966596945222",
         "https://alfaraaonline.com.sa/%d9%86%d8%b4%d8%a7%d8%b7%d8%a7%d8%aa%d9%86%d8%a7/"
       ],
-      "frames": []
+      "frames": [],
+      "counters": [
+        7,
+        24,
+        4
+      ]
     },
     {
       "id": 5183,
       "slug": "organizational-chart",
       "url": "https://alfaraaonline.com.sa/organizational-chart/",
       "title": "organizational-chart",
-      "date": "",
+      "date": "2023-01-23T18:28:21",
       "lines": [
         "الهيكل التنظيمي",
         "شركة الفارع تعتمد على هيكل تنظيمي مرن يركز على الكفاءة والابتكار، حيث يتم تكامل الأدوار بين الإدارات لضمان تحقيق أفضل أداء وتشغيل سلس للعمليات اللوجستية والإدارية."
@@ -382,14 +459,15 @@
         }
       ],
       "links": [],
-      "frames": []
+      "frames": [],
+      "counters": []
     },
     {
       "id": 4970,
       "slug": "news",
       "url": "https://alfaraaonline.com.sa/news/",
       "title": "news",
-      "date": "",
+      "date": "2023-01-05T12:13:08",
       "lines": [
         "اخبارنا​",
         "الحفل السنوي السابع لتكريم منسوبي شركة الفارع الدولية لعام 2025.",
@@ -440,63 +518,78 @@
       "images": [
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-03-at-2.23.44-PM-1024x682.jpeg",
-          "alt": "الحفل السنوي السابع لتكريم منسوبي شركة الفارع الدولية لعام 2025."
+          "alt": "الحفل السنوي السابع لتكريم منسوبي شركة الفارع الدولية لعام 2025.",
+          "local": "assets/source-0ac9ec3326c9c7d0.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/02/Untitled-design-1024x1024.png",
-          "alt": "شركة الفارع الدولية تحتفل بيوم التأسيس السعودي"
+          "alt": "شركة الفارع الدولية تحتفل بيوم التأسيس السعودي",
+          "local": "assets/source-d3cacf96bc1cb90e.png"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/01/DSC08374-Enhanced-NR-1024x683.jpg",
-          "alt": "الحفل السنوي السادس لتكريم منسوبي شركة الفارع الدولية لعام 2024, و اطلاق الهيكل التظيمي الجديد."
+          "alt": "الحفل السنوي السادس لتكريم منسوبي شركة الفارع الدولية لعام 2024, و اطلاق الهيكل التظيمي الجديد.",
+          "local": "assets/source-40fefad26d493641.jpg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/10/01181212-95a7-4069-8713-adfcae43d818-1-1024x576.jpeg",
-          "alt": "شركة الفارع في جادة الإبل-اضغط هنا"
+          "alt": "شركة الفارع في جادة الإبل-اضغط هنا",
+          "local": "assets/source-32ad416663a14842.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-01-at-1.54.00-PM-577x1024.jpeg",
-          "alt": "الإحتفال باليوم الوطني 1446-اضغط هنا"
+          "alt": "الإحتفال باليوم الوطني 1446-اضغط هنا",
+          "local": "assets/source-fea9f7dce09fa5e9.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-06-at-1.54.39-PM-1024x603.jpeg",
-          "alt": "أوتوميكانيكا الرياض 2024                                                    -اضغط هنا"
+          "alt": "أوتوميكانيكا الرياض 2024                                                    -اضغط هنا",
+          "local": "assets/source-371d788d6727e940.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-17-at-1.33.57-AM-1024x607.jpeg",
-          "alt": "برنامج طموح -اضغط هنا"
+          "alt": "برنامج طموح -اضغط هنا",
+          "local": "assets/source-dc5bafc02ccd1bb8.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-24-at-4.18.47-PM-576x1024.jpeg",
-          "alt": "الإحتفال بيوم التأسيس السعودي1445-اضغط هنا"
+          "alt": "الإحتفال بيوم التأسيس السعودي1445-اضغط هنا",
+          "local": "assets/source-199e040efe5f6360.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-14-at-6.49.18-PM-1-1.jpeg",
-          "alt": "حفل التكريم السنوي 2023-اضغط هنا"
+          "alt": "حفل التكريم السنوي 2023-اضغط هنا",
+          "local": "assets/source-f82f25311dc40a22.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/صورة-واتساب-بتاريخ-1445-05-11-في-14.49.22_91cd5896.jpg",
-          "alt": "الأسبوع العالمي لريادة الأعمال-اضغط هنا"
+          "alt": "الأسبوع العالمي لريادة الأعمال-اضغط هنا",
+          "local": "assets/source-c9b510a448ec1dd8.jpg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/09/صورة-واتساب-بتاريخ-1445-03-09-في-22.59.28-1024x661.jpg",
-          "alt": "الاحتفال باليوم الوطني1445-اضغط هنا"
+          "alt": "الاحتفال باليوم الوطني1445-اضغط هنا",
+          "local": "assets/source-cb3ae5ee8f280509.jpg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-28-at-9.16.28-PM-1.jpeg",
-          "alt": "افتتاح فرع رنية 2023-اضغط هنا"
+          "alt": "افتتاح فرع رنية 2023-اضغط هنا",
+          "local": "assets/source-183ab19cc616c7c0.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-8.59.55-PM.jpeg",
-          "alt": "الإحتفال بيوم التأسيس 1444-اضغط هنا"
+          "alt": "الإحتفال بيوم التأسيس 1444-اضغط هنا",
+          "local": "assets/source-bcf68aeaa5480a34.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/01/WhatsApp-Image-2023-01-08-at-12.40.34-PM-5.jpeg",
-          "alt": "الحفل السنوي-اضغط هنا"
+          "alt": "الحفل السنوي-اضغط هنا",
+          "local": "assets/source-810589bfa4ddb725.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2022/04/WhatsApp-Image-2024-06-30-at-2.48.52-PM-583x1024.jpeg",
-          "alt": "حفل تدشين المتجر الالكتروني-اضغط هنا"
+          "alt": "حفل تدشين المتجر الالكتروني-اضغط هنا",
+          "local": "assets/source-9b2d82f6c0626e27.jpeg"
         }
       ],
       "links": [
@@ -516,27 +609,29 @@
         "https://alfaraaonline.com.sa/%d8%a7%d9%84%d8%ad%d9%81%d9%84-%d8%a7%d9%84%d8%b3%d9%86%d9%88%d9%8a/",
         "https://alfaraaonline.com.sa/%d8%ad%d9%81%d9%84-%d8%aa%d8%af%d8%b4%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d8%aa%d8%ac%d8%b1-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a/"
       ],
-      "frames": []
+      "frames": [],
+      "counters": []
     },
     {
       "id": 4886,
       "slug": "careers",
       "url": "https://alfaraaonline.com.sa/careers/",
       "title": "careers",
-      "date": "",
+      "date": "2022-09-26T20:06:01",
       "lines": [],
       "images": [],
       "links": [],
       "frames": [
-        "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg=="
-      ]
+        "https://www.alfaraaonline.mg-so.com/forms/?p=17"
+      ],
+      "counters": []
     },
     {
       "id": 4862,
       "slug": "banks",
       "url": "https://alfaraaonline.com.sa/banks/",
       "title": "banks",
-      "date": "",
+      "date": "2022-09-17T23:10:05",
       "lines": [
         "الحسابات البنكيه​​",
         "شركة الفارع توفر طرق متطورة و امنة للدفع الالكتروني عن طريق الحسابات البنكية, ويمكن التحويل من جميع انحاء العالم عبر رقم الايبان.",
@@ -577,14 +672,15 @@
         }
       ],
       "links": [],
-      "frames": []
+      "frames": [],
+      "counters": []
     },
     {
       "id": 4710,
       "slug": "fastlinks",
       "url": "https://alfaraaonline.com.sa/fastlinks/",
       "title": "fastlinks",
-      "date": "",
+      "date": "2022-08-26T20:53:54",
       "lines": [
         "الموقع الإلكتروني",
         "المتجر الإلكتروني",
@@ -642,7 +738,98 @@
         "حفل تدشين المتجر الالكتروني-اضغط هنا",
         "مسؤل – 15 أبريل، 2022"
       ],
-      "images": [],
+      "images": [
+        {
+          "url": "https://alfaraaonline.com.sa/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-03-at-2.23.44-PM-1024x682.jpeg",
+          "alt": "",
+          "background": true,
+          "local": "assets/source-0ac9ec3326c9c7d0.jpeg"
+        },
+        {
+          "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/02/Untitled-design-1024x1024.png",
+          "alt": "",
+          "background": true,
+          "local": "assets/source-d3cacf96bc1cb90e.png"
+        },
+        {
+          "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/01/DSC08374-Enhanced-NR-1024x683.jpg",
+          "alt": "",
+          "background": true,
+          "local": "assets/source-40fefad26d493641.jpg"
+        },
+        {
+          "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/10/01181212-95a7-4069-8713-adfcae43d818-1-1024x576.jpeg",
+          "alt": "",
+          "background": true,
+          "local": "assets/source-32ad416663a14842.jpeg"
+        },
+        {
+          "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-01-at-1.54.00-PM-577x1024.jpeg",
+          "alt": "",
+          "background": true,
+          "local": "assets/source-fea9f7dce09fa5e9.jpeg"
+        },
+        {
+          "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-06-at-1.54.39-PM-1024x603.jpeg",
+          "alt": "",
+          "background": true,
+          "local": "assets/source-371d788d6727e940.jpeg"
+        },
+        {
+          "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-17-at-1.33.57-AM-1024x607.jpeg",
+          "alt": "",
+          "background": true,
+          "local": "assets/source-dc5bafc02ccd1bb8.jpeg"
+        },
+        {
+          "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-24-at-4.18.47-PM-576x1024.jpeg",
+          "alt": "",
+          "background": true,
+          "local": "assets/source-199e040efe5f6360.jpeg"
+        },
+        {
+          "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-14-at-6.49.18-PM-1-1.jpeg",
+          "alt": "",
+          "background": true,
+          "local": "assets/source-f82f25311dc40a22.jpeg"
+        },
+        {
+          "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/صورة-واتساب-بتاريخ-1445-05-11-في-14.49.22_91cd5896.jpg",
+          "alt": "",
+          "background": true,
+          "local": "assets/source-c9b510a448ec1dd8.jpg"
+        },
+        {
+          "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/09/صورة-واتساب-بتاريخ-1445-03-09-في-22.59.28-1024x661.jpg",
+          "alt": "",
+          "background": true,
+          "local": "assets/source-cb3ae5ee8f280509.jpg"
+        },
+        {
+          "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-28-at-9.16.28-PM-1.jpeg",
+          "alt": "",
+          "background": true,
+          "local": "assets/source-183ab19cc616c7c0.jpeg"
+        },
+        {
+          "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-8.59.55-PM.jpeg",
+          "alt": "",
+          "background": true,
+          "local": "assets/source-bcf68aeaa5480a34.jpeg"
+        },
+        {
+          "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/01/WhatsApp-Image-2023-01-08-at-12.40.34-PM-5.jpeg",
+          "alt": "",
+          "background": true,
+          "local": "assets/source-810589bfa4ddb725.jpeg"
+        },
+        {
+          "url": "https://alfaraaonline.com.sa/wp-content/uploads/2022/04/WhatsApp-Image-2024-06-30-at-2.48.52-PM-583x1024.jpeg",
+          "alt": "",
+          "background": true,
+          "local": "assets/source-9b2d82f6c0626e27.jpeg"
+        }
+      ],
       "links": [
         "https://alfaraaonline.com.sa/",
         "https://store.alfaraaonline.com.sa/",
@@ -676,14 +863,15 @@
         "https://alfaraaonline.com.sa/%d8%a7%d9%84%d8%ad%d9%81%d9%84-%d8%a7%d9%84%d8%b3%d9%86%d9%88%d9%8a/",
         "https://alfaraaonline.com.sa/%d8%ad%d9%81%d9%84-%d8%aa%d8%af%d8%b4%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d8%aa%d8%ac%d8%b1-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a/"
       ],
-      "frames": []
+      "frames": [],
+      "counters": []
     },
     {
       "id": 4584,
       "slug": "branches",
       "url": "https://alfaraaonline.com.sa/branches/",
       "title": "branches",
-      "date": "",
+      "date": "2021-08-25T11:07:53",
       "lines": [
         "فروعنا",
         "المركز الرئيسيي",
@@ -720,7 +908,8 @@
       "images": [
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/08/4-300x225.png",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-dff8987ff3230ce2.png"
         }
       ],
       "links": [
@@ -743,20 +932,21 @@
         "https://iwtsp.com/966509304858"
       ],
       "frames": [
-        "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-        "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-        "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-        "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-        "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-        "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg=="
-      ]
+        "https://maps.google.com/maps?q=21.47806895383601%2C%2040.48926200264652&t=m&z=10&output=embed&iwloc=near",
+        "https://maps.google.com/maps?q=21%C2%B028%2737.7%22N%2040%C2%B029%2722.6%22E&t=m&z=10&output=embed&iwloc=near",
+        "https://maps.google.com/maps?q=26.450268466866802%2C%2050.02317884488087&t=m&z=10&output=embed&iwloc=near",
+        "https://maps.google.com/maps?q=21.959137316872905%2C%2042.05789046030884&t=m&z=10&output=embed&iwloc=near",
+        "https://maps.google.com/maps?q=7R6M%2BV5%20%D8%B1%D9%86%D9%8A%D8%A9&t=m&z=10&output=embed&iwloc=near",
+        "https://maps.google.com/maps?q=21%C2%B028%2753.1%22N%2040%C2%B029%2717.2%22E&t=m&z=10&output=embed&iwloc=near"
+      ],
+      "counters": []
     },
     {
       "id": 4580,
       "slug": "about",
       "url": "https://alfaraaonline.com.sa/about/",
       "title": "about",
-      "date": "",
+      "date": "2021-08-25T11:03:52",
       "lines": [
         "من نحن",
         "نبذة عن شركة الفارع",
@@ -791,11 +981,13 @@
       "images": [
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/08/6-350x230.png",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-486daa6e23505db7.png"
         }
       ],
       "links": [],
-      "frames": []
+      "frames": [],
+      "counters": []
     }
   ],
   "posts": [
@@ -816,16 +1008,19 @@
       "images": [
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-03-at-2.23.47-PM-1024x682.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-aed9e2a8aa951d90.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-03-at-2.23.49-PM-1024x682.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-19a4fe6b6ad44ba2.jpeg"
         }
       ],
       "links": [],
       "frames": [],
-      "thumbnail": "assets/news-7325.jpeg"
+      "thumbnail": "assets/source-aed9e2a8aa951d90.jpeg",
+      "counters": []
     },
     {
       "id": 6967,
@@ -840,16 +1035,19 @@
       "images": [
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/02/IMG_0036-1-2-768x1024.jpg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-dad83d85c23db7a8.jpg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/02/IMG_0020-1-3-768x1024.jpg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-93d30cb1dcaafe4b.jpg"
         }
       ],
       "links": [],
       "frames": [],
-      "thumbnail": "assets/news-6967.jpg"
+      "thumbnail": "assets/source-dad83d85c23db7a8.jpg",
+      "counters": []
     },
     {
       "id": 6917,
@@ -867,32 +1065,39 @@
       "images": [
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/01/DSC08492-1-1024x683.jpg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-7dff30590f5ffabe.jpg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/01/DSC08479-4-1024x683.jpg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-86088c718204e8ad.jpg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/01/DSC08480-1024x683.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-fe10d1f0a5e3948d.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/01/DSC08473-1-1-1024x683.jpg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-baa7eeaeb276c8ae.jpg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/01/DSC08300-1024x683.jpg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-8e372eea89aed34c.jpg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2025/01/PHOTO-2025-01-20-14-55-12-1024x576.jpg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-9c1d023fe7b4b510.jpg"
         }
       ],
       "links": [],
       "frames": [],
-      "thumbnail": "assets/news-6917.jpg"
+      "thumbnail": "assets/source-7dff30590f5ffabe.jpg",
+      "counters": []
     },
     {
       "id": 6872,
@@ -913,36 +1118,44 @@
       "images": [
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/10/aa4ab400-0a08-479f-981a-9e93c7976af0-350x230.jpeg",
-          "alt": "aa4ab400-0a08-479f-981a-9e93c7976af0"
+          "alt": "aa4ab400-0a08-479f-981a-9e93c7976af0",
+          "local": "assets/source-06a36e6d1d3fa9b6.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/10/682b440e-4b80-4fa7-8ecf-437cca0e1f1e-1-350x230.jpeg",
-          "alt": "682b440e-4b80-4fa7-8ecf-437cca0e1f1e (1)"
+          "alt": "682b440e-4b80-4fa7-8ecf-437cca0e1f1e (1)",
+          "local": "assets/source-932758ef140c8d2b.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/10/01181212-95a7-4069-8713-adfcae43d818-1-350x230.jpeg",
-          "alt": "01181212-95a7-4069-8713-adfcae43d818"
+          "alt": "01181212-95a7-4069-8713-adfcae43d818",
+          "local": "assets/source-916f15795c25f2a1.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/10/bfd40618-a5f2-4ba5-a28c-97d9d1808999-350x230.jpeg",
-          "alt": "bfd40618-a5f2-4ba5-a28c-97d9d1808999"
+          "alt": "bfd40618-a5f2-4ba5-a28c-97d9d1808999",
+          "local": "assets/source-b2e21e2999d5f370.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-02-at-11.58.45-AM-350x230.jpeg",
-          "alt": "WhatsApp Image 2024-10-02 at 11.58.45 AM"
+          "alt": "WhatsApp Image 2024-10-02 at 11.58.45 AM",
+          "local": "assets/source-392fe5388d733ea3.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-02-at-10.56.49-AM-678x1024.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-e46f8d189a9728df.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/10/01181212-95a7-4069-8713-adfcae43d818-1-1024x576.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-32ad416663a14842.jpeg"
         }
       ],
       "links": [],
       "frames": [],
-      "thumbnail": "assets/news-6872.jpeg"
+      "thumbnail": "assets/source-06a36e6d1d3fa9b6.jpeg",
+      "counters": []
     },
     {
       "id": 6848,
@@ -959,18 +1172,21 @@
       "images": [
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-01-at-1.23.09-PM-1-576x1024.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-642b10ff57645287.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-01-at-1.27.57-PM-711x1024.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-5eaa7f9da9bf3c45.jpeg"
         }
       ],
       "links": [
         "https://nz.sa/PrASx"
       ],
       "frames": [],
-      "thumbnail": "assets/news-6848.jpeg"
+      "thumbnail": "assets/source-642b10ff57645287.jpeg",
+      "counters": []
     },
     {
       "id": 6352,
@@ -987,112 +1203,139 @@
       "images": [
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/05/4a5dcfbc-5ce7-4590-adfb-0e55aa22debf-1-350x230.jpeg",
-          "alt": "4a5dcfbc-5ce7-4590-adfb-0e55aa22debf"
+          "alt": "4a5dcfbc-5ce7-4590-adfb-0e55aa22debf",
+          "local": "assets/source-e15555674dd138e8.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/05/4e2bc373-a758-4fbf-8a74-6b1ece076fc1-1-350x230.jpeg",
-          "alt": "4e2bc373-a758-4fbf-8a74-6b1ece076fc1"
+          "alt": "4e2bc373-a758-4fbf-8a74-6b1ece076fc1",
+          "local": "assets/source-c25869179757eabb.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/05/05a4f446-1541-4315-85ba-fba4bab3925c-1-350x230.jpeg",
-          "alt": "05a4f446-1541-4315-85ba-fba4bab3925c"
+          "alt": "05a4f446-1541-4315-85ba-fba4bab3925c",
+          "local": "assets/source-ccfc50e82ee1d880.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/05/5d312e0c-1b52-4297-9a73-9dd6162e05b9-1-350x230.jpeg",
-          "alt": "5d312e0c-1b52-4297-9a73-9dd6162e05b9"
+          "alt": "5d312e0c-1b52-4297-9a73-9dd6162e05b9",
+          "local": "assets/source-6ae52e6f36500a08.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/05/07d8d424-70d5-40de-aad5-47c234fdab5f-1-350x230.jpeg",
-          "alt": "07d8d424-70d5-40de-aad5-47c234fdab5f"
+          "alt": "07d8d424-70d5-40de-aad5-47c234fdab5f",
+          "local": "assets/source-8bd1d04edd4acb75.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/05/9e076ecd-df12-403e-b08d-42c9f2ed2fac-1-350x230.jpeg",
-          "alt": "9e076ecd-df12-403e-b08d-42c9f2ed2fac"
+          "alt": "9e076ecd-df12-403e-b08d-42c9f2ed2fac",
+          "local": "assets/source-15c0760d9dc7887f.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/05/27dbb9ef-34e5-4b44-93ba-6f4fb37c9c4c-1-350x230.jpeg",
-          "alt": "27dbb9ef-34e5-4b44-93ba-6f4fb37c9c4c"
+          "alt": "27dbb9ef-34e5-4b44-93ba-6f4fb37c9c4c",
+          "local": "assets/source-43d6be2358d95b09.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/05/35edcd51-24f6-42af-ac8d-bd8d7030db8d-350x230.jpeg",
-          "alt": "35edcd51-24f6-42af-ac8d-bd8d7030db8d"
+          "alt": "35edcd51-24f6-42af-ac8d-bd8d7030db8d",
+          "local": "assets/source-f50b75f7718565c4.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/05/42ef3a7d-1940-4553-9ac4-38c9a66cbfc5-3-350x230.jpeg",
-          "alt": "42ef3a7d-1940-4553-9ac4-38c9a66cbfc5"
+          "alt": "42ef3a7d-1940-4553-9ac4-38c9a66cbfc5",
+          "local": "assets/source-eb172ee959a228f9.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/05/45d8a583-05dc-4b7d-bca0-1a3f6dc73621-350x230.jpeg",
-          "alt": "45d8a583-05dc-4b7d-bca0-1a3f6dc73621"
+          "alt": "45d8a583-05dc-4b7d-bca0-1a3f6dc73621",
+          "local": "assets/source-9a757bd921307f75.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/05/50a506a0-2f09-4567-a94b-a4d4109e5e9e-350x230.jpeg",
-          "alt": "50a506a0-2f09-4567-a94b-a4d4109e5e9e"
+          "alt": "50a506a0-2f09-4567-a94b-a4d4109e5e9e",
+          "local": "assets/source-66c3cfee35231680.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/05/89bb7ee9-35f7-40c8-92d2-bc6261e9a5af-350x230.jpeg",
-          "alt": "89bb7ee9-35f7-40c8-92d2-bc6261e9a5af"
+          "alt": "89bb7ee9-35f7-40c8-92d2-bc6261e9a5af",
+          "local": "assets/source-cd6b1da1143684ff.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/05/485ded9f-e6bf-492f-b80c-46e778c61490-350x230.jpeg",
-          "alt": "485ded9f-e6bf-492f-b80c-46e778c61490"
+          "alt": "485ded9f-e6bf-492f-b80c-46e778c61490",
+          "local": "assets/source-4bd0a6758926d4e4.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/05/603c177b-11a7-48f2-814d-3790a6883d52-350x230.jpeg",
-          "alt": "603c177b-11a7-48f2-814d-3790a6883d52"
+          "alt": "603c177b-11a7-48f2-814d-3790a6883d52",
+          "local": "assets/source-095af810c4f73672.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/05/689abc07-bb3c-4a78-b32c-95c8878f178b-350x230.jpeg",
-          "alt": "689abc07-bb3c-4a78-b32c-95c8878f178b"
+          "alt": "689abc07-bb3c-4a78-b32c-95c8878f178b",
+          "local": "assets/source-d285d60b60e0baf0.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/05/6194a48a-dbed-41ff-909e-0ea88f6c7bb6-350x230.jpeg",
-          "alt": "6194a48a-dbed-41ff-909e-0ea88f6c7bb6"
+          "alt": "6194a48a-dbed-41ff-909e-0ea88f6c7bb6",
+          "local": "assets/source-89a5fa6a30fa144a.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/05/502145f5-c8d8-410b-833a-276de24631cb-350x230.jpeg",
-          "alt": "502145f5-c8d8-410b-833a-276de24631cb"
+          "alt": "502145f5-c8d8-410b-833a-276de24631cb",
+          "local": "assets/source-456cc9e2cf5f6de3.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/05/1261149e-7140-4e9c-984a-e3eac38a6c48-350x230.jpeg",
-          "alt": "1261149e-7140-4e9c-984a-e3eac38a6c48"
+          "alt": "1261149e-7140-4e9c-984a-e3eac38a6c48",
+          "local": "assets/source-f64104850f137cd3.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/05/98044267-7a46-4c35-b2a0-67714333dc67-1-350x230.jpeg",
-          "alt": "98044267-7a46-4c35-b2a0-67714333dc67"
+          "alt": "98044267-7a46-4c35-b2a0-67714333dc67",
+          "local": "assets/source-14e56518e20d069f.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/05/b759ca18-cef1-49ca-b85b-9fd8467b17de-350x230.jpeg",
-          "alt": "b759ca18-cef1-49ca-b85b-9fd8467b17de"
+          "alt": "b759ca18-cef1-49ca-b85b-9fd8467b17de",
+          "local": "assets/source-079694f975408173.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/05/c3ec8f61-e41a-4672-a4ad-25f2d11ce5da-350x230.jpeg",
-          "alt": "c3ec8f61-e41a-4672-a4ad-25f2d11ce5da"
+          "alt": "c3ec8f61-e41a-4672-a4ad-25f2d11ce5da",
+          "local": "assets/source-2231e52433c36d52.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/05/cc1a9d63-bd4e-49ba-bafb-3e997e3017dd-350x230.jpeg",
-          "alt": "cc1a9d63-bd4e-49ba-bafb-3e997e3017dd"
+          "alt": "cc1a9d63-bd4e-49ba-bafb-3e997e3017dd",
+          "local": "assets/source-fbebb3beaeee3d2a.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/05/cc653b28-7b0d-460b-8c5c-aa7f80f5225f-350x230.jpeg",
-          "alt": "cc653b28-7b0d-460b-8c5c-aa7f80f5225f"
+          "alt": "cc653b28-7b0d-460b-8c5c-aa7f80f5225f",
+          "local": "assets/source-f32eecce0a5dab82.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/05/cfa56db1-8c23-4892-b2d0-dab18f4284af-350x230.jpeg",
-          "alt": "cfa56db1-8c23-4892-b2d0-dab18f4284af"
+          "alt": "cfa56db1-8c23-4892-b2d0-dab18f4284af",
+          "local": "assets/source-b9c7f277652b5123.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/05/deede2dc-631b-4c75-bcef-d4e8f5c8fd88-350x230.jpeg",
-          "alt": "deede2dc-631b-4c75-bcef-d4e8f5c8fd88"
+          "alt": "deede2dc-631b-4c75-bcef-d4e8f5c8fd88",
+          "local": "assets/source-def781b5c30e461c.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/05/f4b9a641-adc5-4aac-a3b7-d885b881dd0c-350x230.jpeg",
-          "alt": "f4b9a641-adc5-4aac-a3b7-d885b881dd0c"
+          "alt": "f4b9a641-adc5-4aac-a3b7-d885b881dd0c",
+          "local": "assets/source-fe278de1fea3f663.jpeg"
         }
       ],
       "links": [],
       "frames": [],
-      "thumbnail": "assets/news-6352.jpeg"
+      "thumbnail": "assets/source-e15555674dd138e8.jpeg",
+      "counters": []
     },
     {
       "id": 6236,
@@ -1108,43 +1351,53 @@
       "images": [
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-16-at-10.55.41-PM-1024x1021.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-7486c25e8bdae676.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-16-at-11.28.39-PM-150x150.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-f05713432ccc95c8.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-16-at-11.28.46-PM-150x150.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-8378d68b1c98db09.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-16-at-11.28.41-PM-1-150x150.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-fe3711043b3b8b4b.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-16-at-11.28.44-PM-150x150.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-941ddea0a5bd1323.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-17-at-12.01.29-AM-150x150.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-3393ad1267284f72.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-16-at-11.28.42-PM-150x150.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-fae793edb7d796dd.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-16-at-11.28.41-PM-150x150.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-a8001037a57d56a4.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-16-at-11.28.40-PM-1-150x150.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-06c87913cee509a8.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-16-at-11.28.42-PM-1-150x150.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-c08ecbd98de22e31.jpeg"
         }
       ],
       "links": [
@@ -1159,7 +1412,8 @@
         "https://alfaraaonline.com.sa/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-16-at-11.28.42-PM-1.jpeg"
       ],
       "frames": [],
-      "thumbnail": "assets/news-6236.jpeg"
+      "thumbnail": "assets/source-7486c25e8bdae676.jpeg",
+      "counters": []
     },
     {
       "id": 6158,
@@ -1175,32 +1429,39 @@
       "images": [
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-24-at-4.47.07-PM.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-66429958353dd34f.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-24-at-4.18.28-PM-782x1024.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-f90c23c81ae97d1d.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-24-at-4.49.21-PM-174x300.jpeg",
-          "alt": "WhatsApp Image 2024-02-24 at 4.49.21 PM"
+          "alt": "WhatsApp Image 2024-02-24 at 4.49.21 PM",
+          "local": "assets/source-4a73b0b370c141e6.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-24-at-4.47.07-PM-1-189x300.jpeg",
-          "alt": "WhatsApp Image 2024-02-24 at 4.47.07 PM"
+          "alt": "WhatsApp Image 2024-02-24 at 4.47.07 PM",
+          "local": "assets/source-857335831376ed04.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-24-at-4.47.16-PM-173x300.jpeg",
-          "alt": "WhatsApp Image 2024-02-24 at 4.47.16 PM"
+          "alt": "WhatsApp Image 2024-02-24 at 4.47.16 PM",
+          "local": "assets/source-5ab8a6bed7ffc0e9.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-24-at-4.18.54-PM-1-169x300.jpeg",
-          "alt": "WhatsApp Image 2024-02-24 at 4.18.54 PM"
+          "alt": "WhatsApp Image 2024-02-24 at 4.18.54 PM",
+          "local": "assets/source-bfed0aaa95b439c9.jpeg"
         }
       ],
       "links": [],
       "frames": [],
-      "thumbnail": "assets/news-6158.jpeg"
+      "thumbnail": "assets/source-66429958353dd34f.jpeg",
+      "counters": []
     },
     {
       "id": 5968,
@@ -1219,216 +1480,269 @@
       "images": [
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-14-at-6.49.18-PM-1-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.49.18 PM (1)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.49.18 PM (1)",
+          "local": "assets/source-372f0806c16da4c8.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-14-at-6.49.12-PM-1-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.49.12 PM (1)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.49.12 PM (1)",
+          "local": "assets/source-befcb14bbfa69728.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-14-at-6.49.20-PM-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.49.20 PM"
+          "alt": "WhatsApp Image 2024-01-14 at 6.49.20 PM",
+          "local": "assets/source-6f07cf73358590bd.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.49.11-PM-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.49.11 PM"
+          "alt": "WhatsApp Image 2024-01-14 at 6.49.11 PM",
+          "local": "assets/source-a282afd1bdb5bc1e.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.49.12-PM-2-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.49.12 PM (2)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.49.12 PM (2)",
+          "local": "assets/source-5fbf589168f03b1d.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.49.12-PM-3-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.49.12 PM (3)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.49.12 PM (3)",
+          "local": "assets/source-8febf3a1aebf02ff.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.49.12-PM-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.49.12 PM"
+          "alt": "WhatsApp Image 2024-01-14 at 6.49.12 PM",
+          "local": "assets/source-55086e0920a1c7a4.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.49.13-PM-1-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.49.13 PM (1)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.49.13 PM (1)",
+          "local": "assets/source-8a8458a2f37d6718.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.49.13-PM-2-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.49.13 PM (2)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.49.13 PM (2)",
+          "local": "assets/source-3b8a4300cdbf9b58.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.49.13-PM-3-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.49.13 PM (3)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.49.13 PM (3)",
+          "local": "assets/source-0dc95f6d749babeb.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.49.13-PM-4-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.49.13 PM (4)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.49.13 PM (4)",
+          "local": "assets/source-934cb6b4731bd804.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.49.13-PM-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.49.13 PM"
+          "alt": "WhatsApp Image 2024-01-14 at 6.49.13 PM",
+          "local": "assets/source-71f3c78d3ffd09a4.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.49.14-PM-1-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.49.14 PM (1)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.49.14 PM (1)",
+          "local": "assets/source-2a462e359ea88361.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.49.14-PM-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.49.14 PM"
+          "alt": "WhatsApp Image 2024-01-14 at 6.49.14 PM",
+          "local": "assets/source-6046dd1bd6b87177.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.49.17-PM-1-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.49.17 PM (1)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.49.17 PM (1)",
+          "local": "assets/source-98b8f5dad6a87f28.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.49.17-PM-2-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.49.17 PM (2)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.49.17 PM (2)",
+          "local": "assets/source-b95e054525ad937f.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.49.17-PM-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.49.17 PM"
+          "alt": "WhatsApp Image 2024-01-14 at 6.49.17 PM",
+          "local": "assets/source-816cca6d7c20e2b8.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.49.18-PM-2-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.49.18 PM (2)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.49.18 PM (2)",
+          "local": "assets/source-785832a43599f8aa.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.49.18-PM-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.49.18 PM"
+          "alt": "WhatsApp Image 2024-01-14 at 6.49.18 PM",
+          "local": "assets/source-c8a54ae4c9c040f9.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.49.19-PM-1-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.49.19 PM (1)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.49.19 PM (1)",
+          "local": "assets/source-05fc9dacc2063c66.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.49.19-PM-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.49.19 PM"
+          "alt": "WhatsApp Image 2024-01-14 at 6.49.19 PM",
+          "local": "assets/source-e7386e56109ae041.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.49.20-PM-1-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.49.20 PM (1)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.49.20 PM (1)",
+          "local": "assets/source-b9af23788656f0de.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.49.21-PM-1-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.49.21 PM (1)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.49.21 PM (1)",
+          "local": "assets/source-7f9ab931c8dff4e1.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.49.21-PM-300x200.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.49.21 PM"
+          "alt": "WhatsApp Image 2024-01-14 at 6.49.21 PM",
+          "local": "assets/source-c215e8095b57f5b0.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.46.46-PM-1-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.46.46 PM (1)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.46.46 PM (1)",
+          "local": "assets/source-99287d99c46ecf85.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.46.46-PM-2-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.46.46 PM (2)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.46.46 PM (2)",
+          "local": "assets/source-ad20dde4238a1527.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.46.46-PM-3-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.46.46 PM (3)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.46.46 PM (3)",
+          "local": "assets/source-3e3378587d531db9.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.46.47-PM-1-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.46.47 PM (1)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.46.47 PM (1)",
+          "local": "assets/source-7dd2d7226db8014b.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.46.47-PM-2-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.46.47 PM (2)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.46.47 PM (2)",
+          "local": "assets/source-01ce0505a10f9feb.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.46.47-PM-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.46.47 PM"
+          "alt": "WhatsApp Image 2024-01-14 at 6.46.47 PM",
+          "local": "assets/source-1a5e4c77f649d614.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.46.48-PM-1-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.46.48 PM (1)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.46.48 PM (1)",
+          "local": "assets/source-bf9f6acc734ee11a.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.46.48-PM-2-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.46.48 PM (2)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.46.48 PM (2)",
+          "local": "assets/source-8cf93704fcbb3054.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.46.48-PM-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.46.48 PM"
+          "alt": "WhatsApp Image 2024-01-14 at 6.46.48 PM",
+          "local": "assets/source-875ed7d8f93c16be.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.46.49-PM-1-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.46.49 PM (1)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.46.49 PM (1)",
+          "local": "assets/source-9780b1ee4b9f428b.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.46.49-PM-2-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.46.49 PM (2)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.46.49 PM (2)",
+          "local": "assets/source-c6e1003c79e6d2f8.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.46.49-PM-3-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.46.49 PM (3)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.46.49 PM (3)",
+          "local": "assets/source-292d1ac9c4e11dbd.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.46.49-PM-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.46.49 PM"
+          "alt": "WhatsApp Image 2024-01-14 at 6.46.49 PM",
+          "local": "assets/source-b4be368ef1e57d71.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.46.50-PM-1-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.46.50 PM (1)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.46.50 PM (1)",
+          "local": "assets/source-81557c088bf01539.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.46.50-PM-2-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.46.50 PM (2)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.46.50 PM (2)",
+          "local": "assets/source-1f78259326769f08.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.46.50-PM-3-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.46.50 PM (3)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.46.50 PM (3)",
+          "local": "assets/source-2eb42c11cf9431c0.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.46.50-PM-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.46.50 PM"
+          "alt": "WhatsApp Image 2024-01-14 at 6.46.50 PM",
+          "local": "assets/source-7e590378214e6f59.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.46.51-PM-1-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.46.51 PM (1)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.46.51 PM (1)",
+          "local": "assets/source-d653e814523a3c74.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.46.51-PM-2-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.46.51 PM (2)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.46.51 PM (2)",
+          "local": "assets/source-9ea91a6550c47837.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.46.51-PM-3-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.46.51 PM (3)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.46.51 PM (3)",
+          "local": "assets/source-1208565b1a94a425.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.46.51-PM-4-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.46.51 PM (4)"
+          "alt": "WhatsApp Image 2024-01-14 at 6.46.51 PM (4)",
+          "local": "assets/source-4eda79b458f18c6e.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-6.46.51-PM-300x224.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.46.51 PM"
+          "alt": "WhatsApp Image 2024-01-14 at 6.46.51 PM",
+          "local": "assets/source-73fb11f6d7b5f824.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-14-at-6.59.14-PM-1-185x300.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 6.59.14 PM"
+          "alt": "WhatsApp Image 2024-01-14 at 6.59.14 PM",
+          "local": "assets/source-a600ea528e49d3f3.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-7.10.14-PM-192x300.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 7.10.14 PM"
+          "alt": "WhatsApp Image 2024-01-14 at 7.10.14 PM",
+          "local": "assets/source-ee4d572b14e1a8c4.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-7.09.41-PM-300x275.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 7.09.41 PM"
+          "alt": "WhatsApp Image 2024-01-14 at 7.09.41 PM",
+          "local": "assets/source-60245896d6e7b99e.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-7.04.54-PM-300x225.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 7.04.54 PM"
+          "alt": "WhatsApp Image 2024-01-14 at 7.04.54 PM",
+          "local": "assets/source-9e60a5ddcc13bb64.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-7.04.22-PM-169x300.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 7.04.22 PM"
+          "alt": "WhatsApp Image 2024-01-14 at 7.04.22 PM",
+          "local": "assets/source-fb896ed03b329aee.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-01-14-at-7.13.16-PM-300x293.jpeg",
-          "alt": "WhatsApp Image 2024-01-14 at 7.13.16 PM"
+          "alt": "WhatsApp Image 2024-01-14 at 7.13.16 PM",
+          "local": "assets/source-ac962f750cc4544c.jpeg"
         }
       ],
       "links": [],
       "frames": [],
-      "thumbnail": "assets/news-5968.jpeg"
+      "thumbnail": "assets/source-372f0806c16da4c8.jpeg",
+      "counters": []
     },
     {
       "id": 5941,
@@ -1444,39 +1758,48 @@
       "images": [
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/صورة-واتساب-بتاريخ-1445-05-11-في-14.53.33_df8ab5de.jpg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-0697e2a578f309a0.jpg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/صورة-واتساب-بتاريخ-1445-05-11-في-14.43.23_6698d5ff.jpg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-db10aa051777da32.jpg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/صورة-واتساب-بتاريخ-1445-05-11-في-14.40.33_9537283e.jpg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-58ca732e65d36c46.jpg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/صورة-واتساب-بتاريخ-1445-05-11-في-14.39.48_787c5a74.jpg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-e1f6748decf91070.jpg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/صورة-واتساب-بتاريخ-1445-05-11-في-14.45.48_9183c454.jpg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-99ae1d7511f5aea8.jpg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/صورة-واتساب-بتاريخ-1445-05-11-في-14.44.54_76023241.jpg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-4e3b6f3cd6e4307c.jpg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/صورة-واتساب-بتاريخ-1445-05-11-في-14.46.21_621f1462.jpg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-d44eeedb47972a03.jpg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/صورة-واتساب-بتاريخ-1445-05-11-في-14.49.22_5a4055db.jpg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-15912695bdcca9ed.jpg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/صورة-واتساب-بتاريخ-1445-05-11-في-14.49.22_91cd5896.jpg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-c9b510a448ec1dd8.jpg"
         }
       ],
       "links": [
@@ -1491,7 +1814,8 @@
         "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/صورة-واتساب-بتاريخ-1445-05-11-في-14.49.22_91cd5896.jpg"
       ],
       "frames": [],
-      "thumbnail": "assets/news-5941.jpg"
+      "thumbnail": "assets/source-0697e2a578f309a0.jpg",
+      "counters": []
     },
     {
       "id": 5912,
@@ -1505,20 +1829,24 @@
       "images": [
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/09/صورة-واتساب-بتاريخ-1445-03-09-في-22.32.42-281x300.jpg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-96dcb58a747dc8b7.jpg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/09/صورة-واتساب-بتاريخ-1445-03-09-في-22.12.12-1-172x300.jpg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-d130f9afccf0bf7d.jpg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/09/صورة-واتساب-بتاريخ-1445-03-09-في-22.47.48-1-300x197.jpg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-7a584412dcee5326.jpg"
         }
       ],
       "links": [],
       "frames": [],
-      "thumbnail": "assets/news-5912.jpg"
+      "thumbnail": "assets/source-96dcb58a747dc8b7.jpg",
+      "counters": []
     },
     {
       "id": 5603,
@@ -1534,12 +1862,20 @@
       "images": [
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-28-at-9.16.54-PM-1-1024x591.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-6423162ffd969f1d.jpeg"
+        },
+        {
+          "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-28-at-9.16.28-PM.jpeg",
+          "alt": "",
+          "background": true,
+          "local": "assets/source-514f310260622879.jpeg"
         }
       ],
       "links": [],
       "frames": [],
-      "thumbnail": "assets/news-5603.jpeg"
+      "thumbnail": "assets/source-6423162ffd969f1d.jpeg",
+      "counters": []
     },
     {
       "id": 5468,
@@ -1551,91 +1887,113 @@
       "images": [
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-2.30.47-PM-2-172x300.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-96b311677394a102.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-3.10.38-PM-1-182x300.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-b33dc423f53003b4.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-3.02.12-PM-169x300.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-a9a6df13b0f326b7.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-4.05.41-PM-218x300.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-3f8ba9a8f875487f.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-4.08.52-PM-175x300.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-5878d895d012c97d.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-4.01.07-PM-169x300.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-0d590a6a26bf9fa5.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-3.50.42-PM-169x300.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-ed1e1d42342ae325.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-3.02.12-PM-1-169x300.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-c6f7436a41e517f9.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-3.02.10-PM-169x300.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-19a11c95c456bdf0.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-3.06.47-PM-1-289x300.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-1c5fbf635074b9ee.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-3.06.23-PM-1-166x300.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-ff889e6dec2e96d2.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-3.18.13-PM-1-169x300.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-30a45b9b3861c1f3.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-3.19.43-PM-1-172x300.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-7c93a4e16289b81b.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-3.35.26-PM-1-265x300.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-4adcd309e546a08c.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-3.02.13-PM-225x300.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-5295c3f4483c7fa8.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-3.02.14-PM-2-225x300.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-0c791009cefac8a1.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-3.39.11-PM-1-222x300.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-b3240284fe26e9ff.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-3.41.49-PM-1-236x300.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-3c7e18729ea635fc.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-3.42.30-PM-1-300x269.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-cb911ed70d47e005.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-3.53.42-PM-297x300.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-f9c14f9cc3c88f5f.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-3.55.55-PM-300x285.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-73b51e0c0711f6ec.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-8.49.46-PM-300x200.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-0af4d619dcef07f5.jpeg"
         }
       ],
       "links": [
@@ -1663,7 +2021,8 @@
         "https://alfaraaonline.com.sa/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-8.49.46-PM.jpeg"
       ],
       "frames": [],
-      "thumbnail": "assets/news-5468.jpeg"
+      "thumbnail": "assets/source-96b311677394a102.jpeg",
+      "counters": []
     },
     {
       "id": 5006,
@@ -1677,139 +2036,173 @@
       "images": [
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-30-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-41ea15e360284e20.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-27-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-7e9f02806408f742.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-1-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-a8616ea456d7c7bf.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-341bfcdf54b13e73.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-28-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-255061faf98550b7.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-29-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-66e7d51ed56901eb.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-4-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-1724c1c0c38e45a8.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-22-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-7518d34b6496f9fc.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-14-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-efe874b17263b8d1.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-2-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-e20ad6ac8db0dab6.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-23-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-d0d038c91f1275d6.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-3-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-8b73ff0263bcd2fc.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-5-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-c32d1490614fb96c.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-6-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-80689d3a4e88c8fb.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-7-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-3a461968b9862a5c.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-8-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-3a77f0a551a21fc1.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-9-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-ad6779131285e62c.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-10-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-47648eafb8318c9a.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-11-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-4970e1a7a8136df8.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-12-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-5dc2f00c8216a767.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-13-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-45ed24965df0933b.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-15-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-cf6d28e56d939402.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-16-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-fc8edb66b027a59d.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-17-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-aed198f26133c360.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-19-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-53c6a38c8892d852.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-20-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-bcd006b330ee1eed.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-21-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-dbb2e246d4ff4188.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-25-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-342ea943fcebcabf.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-26-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-44c95361f635f0f3.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-24-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-006a1a617913596c.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-18-350x230.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-2194138ce79ad6aa.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-10.47.04-PM-1-300x225.jpeg",
-          "alt": "WhatsApp Image 2024-05-25 at 10.47.04 PM (1)"
+          "alt": "WhatsApp Image 2024-05-25 at 10.47.04 PM (1)",
+          "local": "assets/source-2e7410d432b07151.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-10.47.04-PM-300x225.jpeg",
-          "alt": "WhatsApp Image 2024-05-25 at 10.47.04 PM"
+          "alt": "WhatsApp Image 2024-05-25 at 10.47.04 PM",
+          "local": "assets/source-56ce3117ddd0589f.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-10.47.05-PM-300x225.jpeg",
-          "alt": "WhatsApp Image 2024-05-25 at 10.47.05 PM"
+          "alt": "WhatsApp Image 2024-05-25 at 10.47.05 PM",
+          "local": "assets/source-c970aa1abcbab273.jpeg"
         }
       ],
       "links": [
@@ -1846,7 +2239,8 @@
         "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/WhatsApp-Image-2024-05-25-at-11.02.33-PM-18.jpeg"
       ],
       "frames": [],
-      "thumbnail": "assets/news-5006.jpeg"
+      "thumbnail": "assets/source-41ea15e360284e20.jpeg",
+      "counters": []
     },
     {
       "id": 4997,
@@ -1864,51 +2258,63 @@
       "images": [
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2022/04/WhatsApp-Image-2024-06-30-at-2.48.51-PM-3-150x150.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-befad3913cb5eeff.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2022/04/WhatsApp-Image-2024-06-30-at-2.48.51-PM-150x150.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-4c252f1f8f5c5d12.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2022/04/WhatsApp-Image-2024-06-30-at-2.48.51-PM-4-150x150.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-348d2e495b676a19.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2022/04/WhatsApp-Image-2024-06-30-at-2.48.50-PM-3-150x150.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-47f3693a0d8485dc.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2022/04/WhatsApp-Image-2024-06-30-at-2.52.58-PM-150x150.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-3a444a998f8fcd04.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2022/04/WhatsApp-Image-2024-06-30-at-2.52.34-PM-150x150.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-c0fad0e350781653.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2022/04/WhatsApp-Image-2024-06-30-at-2.48.52-PM-1-150x150.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-50e095b6ec8ff71b.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2022/04/WhatsApp-Image-2024-06-30-at-2.48.52-PM-150x150.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-6052b09ab8b32855.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2022/04/WhatsApp-Image-2024-06-30-at-2.48.51-PM-5-150x150.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-9d85efd9cb174748.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2022/04/WhatsApp-Image-2024-06-30-at-2.48.52-PM-2-150x150.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-ff97b720c684b213.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2022/04/WhatsApp-Image-2024-06-30-at-2.48.51-PM-2-150x150.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-a7d96cd36cd78482.jpeg"
         },
         {
           "url": "https://alfaraaonline.com.sa/wp-content/uploads/2022/04/WhatsApp-Image-2024-06-30-at-2.48.50-PM-150x150.jpeg",
-          "alt": ""
+          "alt": "",
+          "local": "assets/source-65219e9b126fbe2e.jpeg"
         }
       ],
       "links": [
@@ -1926,17 +2332,56 @@
         "https://alfaraaonline.com.sa/wp-content/uploads/2022/04/WhatsApp-Image-2024-06-30-at-2.48.50-PM.jpeg"
       ],
       "frames": [],
-      "thumbnail": "assets/news-4997.jpeg"
+      "thumbnail": "assets/source-befad3913cb5eeff.jpeg",
+      "counters": []
     }
   ],
+  "siteLinks": [
+    "https://alfaraaonline.com.sa/",
+    "https://www.alfaraaonline.com.sa/about",
+    "https://alfaraaonline.com.sa/organizational-chart/",
+    "https://www.alfaraaonline.mg-so.com/forms/?p=3",
+    "https://alfaraaonline.com.sa/%d9%86%d8%b4%d8%a7%d8%b7%d8%a7%d8%aa%d9%86%d8%a7/",
+    "https://www.alfaraaonline.com.sa/branches",
+    "https://store.alfaraaonline.com.sa/ar",
+    "https://www.alfaraaonline.com.sa/banks/",
+    "https://catalog.alfaraaonline.com.sa/",
+    "https://alfaraaonline.com.sa/news/",
+    "https://www.alfaraaonline.com.sa/careers",
+    "https://www.alfaraaonline.mg-so.com/",
+    "https://alfaraaonline.com.sa/refund_returns/",
+    "https://alfaraaonline.com.sa/wp-content/uploads/2021/04/al-faraa-company-profile-4-1-18.pdf",
+    "https://wa.me/966596945222",
+    "https://www.facebook.com/share/12DAe4kZmub/?mibextid=wwXIfr",
+    "https://x.com/alfaraacompany?s=21",
+    "https://www.instagram.com/alfaraacompany?igsh=MThhMHdjdmJ1dWE0dw==",
+    "https://www.linkedin.com/company/al-faraa/",
+    "https://goo.gl/maps/suvewGvZ92G7DDVc9",
+    "tel:0555392582",
+    "https://iwtsp.com/966555392582",
+    "https://goo.gl/maps/Ck7hc3wnyNHCnrzm6",
+    "tel:0552141467",
+    "https://iwtsp.com/966507701827",
+    "https://goo.gl/maps/Nmmy7AkSMdT9ePKBA",
+    "tel:0555074596",
+    "https://iwtsp.com/966555074596",
+    "https://goo.gl/maps/a2t7zjymXE6JcwCj7",
+    "tel:0507630975",
+    "https://iwtsp.com/966507630975",
+    "https://iwtsp.com/966591265111",
+    "https://maps.app.goo.gl/22uFutxWi8xyCGox5?g_st=iw",
+    "tel:0509304858",
+    "https://iwtsp.com/966509304858",
+    "https://www.topline.com.sa"
+  ],
   "brands": [
-    "assets/brand-11.png",
-    "assets/brand-12.png",
-    "assets/brand-13.png",
-    "assets/brand-14.png",
-    "assets/brand-15.png",
-    "assets/brand-16.png",
-    "assets/brand-17.png",
-    "assets/brand-18.png"
+    "assets/source-8cdb1d029c378ef3.png",
+    "assets/source-b652b05aaeb43339.png",
+    "assets/source-3de2f85e6a10fbf8.png",
+    "assets/source-93f6786554395390.png",
+    "assets/source-ae868b301f548f2b.png",
+    "assets/source-03def962689727c0.png",
+    "assets/source-b4d61700e657001a.png",
+    "assets/source-568ba2e6a1924ad4.png"
   ]
 }
