@@ -1,0 +1,10 @@
+{
+  "name": "alfaraa-uiux",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "python3 -m http.server 4173 --bind 127.0.0.1 --directory dist",
+    "test": "node --test scripts/quote.test.mjs",
+    "check:browser": "node scripts/browser-check.mjs"
+  }
+}
