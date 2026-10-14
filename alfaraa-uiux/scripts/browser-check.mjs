@@ -10,6 +10,13 @@ let socket;
 let nextId=1;
 const pending=new Map();
 const errors=[];
+const retainedSource=JSON.parse((await import('node:fs')).readFileSync(new URL('../dist/source.json',import.meta.url),'utf8'));
+async function checkSourceParagraphs(item,label) {
+  const paragraphs=[...new Set(item.lines.filter(line=>line.length>=60))];
+  const normalizeContent=value=>value.replace(/\s|\p{Cf}/gu,'');
+  const missing=await evaluate(`(()=>{const normalize=${normalizeContent.toString()};const text=normalize(document.querySelector('main').textContent);return ${JSON.stringify(paragraphs)}.filter(line=>!text.includes(normalize(line)));})()`);
+  check(missing.length===0,label+' retains every source paragraph: '+missing.join(' | '));
+}
 let pausedContent;
 async function command(method,params={}){
   const id=nextId++;
@@ -35,6 +42,9 @@ try{
   mkdirSync('artifacts',{recursive:true});
   check(await evaluate("document.documentElement.dir === 'rtl'"),'Arabic RTL');
   check(await evaluate("document.querySelectorAll('.service-card').length === 3"),'Homepage services');
+  await checkSourceParagraphs(retainedSource.pages.find(item=>item.slug==='الرئيسيه'),'Homepage');
+  check(await evaluate("document.querySelectorAll('#testimonials figure').length===4 && document.querySelectorAll('#equipment-gallery img').length===6 && document.querySelectorAll('.brand-logos img').length===8"),'All original testimonials, equipment photos and brand logos are displayed');
+  check(await evaluate("document.querySelectorAll('.service-ribbon a').length===7"),'All seven original service highlights are displayed');
   await screenshot('artifacts/home-desktop.png');
   await evaluate("document.querySelectorAll('main img').forEach(image=>image.loading='eager')");
   await until("[...document.querySelectorAll('main img')].every(image=>image.complete && image.naturalWidth>0)");
@@ -59,6 +69,12 @@ try{
     await route(path);check(await evaluate("document.querySelector('h1') !== null && !document.body.textContent.includes('الصفحة غير موجودة')"),`Page ${path}`);
     check(await evaluate('document.documentElement.scrollWidth <= innerWidth+1'),`${path} has no horizontal overflow`);
   }
+  for(const [slug,path] of [['about','about'],['نشاطاتنا','activities'],['banks','banks']]){await route(path);await checkSourceParagraphs(retainedSource.pages.find(item=>item.slug===slug),path);}
+  await route('branches');check(await evaluate("document.querySelectorAll('.source-map iframe').length===6 && document.querySelector('a[href*=\"7R6M\"]')!==null && document.querySelector('a[href=\"tel:0552141467\"]')!==null"),'All six maps, Ranyah directions and the published Isuzu number are retained');
+  await route('careers');check(await evaluate("document.querySelector('iframe').src==='https://www.alfaraaonline.mg-so.com/forms/?p=17'"),'Original careers form is available');
+  await route('contact');check(await evaluate("document.querySelector('.source-embed iframe').src==='https://www.alfaraaonline.mg-so.com/forms/?p=3'"),'Original contact form is available');
+  await route('fastlinks');check(await evaluate("document.querySelector('a[href*=\"linkedin.com/company/al-faraa\"]')!==null"),'LinkedIn company channel is retained');
+  for(const post of retainedSource.posts){await route('news/'+post.id);await checkSourceParagraphs(post,'Article '+post.id);check(await evaluate(`document.querySelectorAll('.article-copy img').length===${post.images.length}`),'All images retained for article '+post.id);}
   await route('news');check(await evaluate("document.querySelectorAll('.news-card').length===15"),'All 15 news articles');
   const articleHash=await evaluate("document.querySelector('.news-card h3 a').hash");await evaluate(`location.hash=${JSON.stringify(articleHash)}`);await delay(150);check(await evaluate("document.querySelector('.article-copy')!==null"),'News article navigation');
   await route('branches');await evaluate("document.querySelector('[data-city=الدمام].branch-filter').click()");check(await evaluate("document.querySelectorAll('.branch-card').length===1"),'Branch city filter');
@@ -109,6 +125,7 @@ try{
     for(const path of routes){await route(path);assert.ok(await evaluate('document.documentElement.scrollWidth <= innerWidth+1'),`${path} overflows at ${width}px`);}
     check(true,`All screens and an article fit at ${width}px`);
   }
+  await route('about');await evaluate("location.hash='#logistics'");await delay(400);check(await evaluate("document.querySelector('#logistics')!==null && document.querySelector('#logistics').getBoundingClientRect().top>=75"),'Logistics section anchor resolves from other pages');
   await route('activities');check(await evaluate("getComputedStyle(document.querySelector('.page-hero .container')).animationName==='enter'"),'Page entrance motion is enabled');
   await command('Emulation.setEmulatedMedia',{features:[{name:'prefers-reduced-motion',value:'reduce'}]});
   await route('branches');await evaluate("document.querySelector('[data-city=الدمام].branch-filter').click()");
