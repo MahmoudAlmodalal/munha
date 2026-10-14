@@ -1,9 +1,11 @@
 import {spawn} from 'node:child_process';
-import {mkdirSync,writeFileSync} from 'node:fs';
+import {existsSync,mkdirSync,writeFileSync} from 'node:fs';
 import assert from 'node:assert/strict';
 import {setTimeout as delay} from 'node:timers/promises';
 
-const chrome=spawn('/usr/bin/google-chrome',['--headless','--no-sandbox','--disable-gpu','--disable-dev-shm-usage','--remote-debugging-port=9237','--user-data-dir=/tmp/alfaraa-browser-check','--no-first-run','--no-default-browser-check','about:blank'],{stdio:'ignore'});
+const chromePath=process.env.CHROME_PATH || ['/usr/bin/google-chrome','/usr/bin/chromium'].find(path=>existsSync(path));
+assert.ok(chromePath,'Chrome or Chromium is installed (or set CHROME_PATH)');
+const chrome=spawn(chromePath,['--headless','--no-sandbox','--disable-gpu','--disable-dev-shm-usage','--remote-debugging-port=9237','--user-data-dir=/tmp/alfaraa-browser-check','--no-first-run','--no-default-browser-check','about:blank'],{stdio:'ignore'});
 let socket;
 let nextId=1;
 const pending=new Map();
@@ -44,8 +46,10 @@ try{
   for(const [width,height] of [[320,720],[375,844],[768,1024],[1024,768],[1280,800],[1366,768],[1440,900],[1920,1080]]){
     await command('Emulation.setDeviceMetricsOverride',{width,height,deviceScaleFactor:1,mobile:width<=375});await delay(120);
     check(await evaluate('document.documentElement.scrollWidth <= innerWidth+1'),`Homepage has no horizontal overflow at ${width}px`);
+    check(await evaluate("document.querySelector('.trust-row').getBoundingClientRect().top >= document.querySelector('.service-ribbon').getBoundingClientRect().bottom-1"),`Service ribbon remains unobscured at ${width}px`);
+    check(await evaluate("[...document.querySelectorAll('.hero-product,.service-ribbon a,.trust-item')].every(element=>{const r=element.getBoundingClientRect();return r.left>=-1&&r.right<=innerWidth+1})"),`Hero panel, service links and statistics stay inside ${width}px viewport`);
     if(width>=1280){
-      check(await evaluate("[...document.querySelectorAll('.hero h1,.hero-copy,.hero-actions,.main-nav,.header-quote')].every(element=>{const r=element.getBoundingClientRect();return r.left>=0&&r.right<=innerWidth&&r.top>=0&&r.bottom<=innerHeight})"),`Hero content and desktop navigation fit ${width}×${height}`);
+      check(await evaluate("[...document.querySelectorAll('.hero h1,.hero-copy,.hero-product,.hero-actions,.hero-bottom,.main-nav,.header-quote')].every(element=>{const r=element.getBoundingClientRect();return r.left>=0&&r.right<=innerWidth&&r.top>=0&&r.bottom<=innerHeight})"),`Hero content and desktop navigation fit ${width}×${height}`);
       check(await evaluate("document.querySelector('.hero-actions').getBoundingClientRect().bottom < document.querySelector('.hero-bottom').getBoundingClientRect().top"),`Hero actions do not overlap the section link at ${width}px`);
       await screenshot(`artifacts/home-${width}x${height}.png`);
     }
